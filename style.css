@@ -1,4 +1,4 @@
-#box {
+.box {
      height: 100px;
      width: 100px;
      position: absolute;
@@ -8,6 +8,6 @@
      background: rgb(27, 4, 230); 
 }
 
-#box.active{
+.box.active{
      border: 1px solid rgb(217, 255, 0);
 }
